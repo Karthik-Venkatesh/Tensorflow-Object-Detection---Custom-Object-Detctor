@@ -1,6 +1,6 @@
 # Tensorflow object detection - Custom object detector
 
-Hi, This is about custom object detector using tensorflow object detection API. Please refer step by step.
+Hi, This is about custom object detector using tensorflow object detection API. In this project trying to detect batman apperance. Please refer step by step.
 
 ## Preparing resources for tensorflow custom object detection.
 
