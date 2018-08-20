@@ -88,15 +88,15 @@ The label map file will contain the labels and ids of the object. In this case t
 	│   └─── train.csv 
 	|
 	└───/models
-	│	    │
-	│	    └───/model
-	│		 │		│
-	│		 │		└───/train
-	│		 │		│		// Trainning Images
-	│		 │		└───/eval
-	│		 │		│		// Test Images
-	│		 │		└─── .config file
-	│		 │
+	│	│
+	│	└───/model
+	│	│	│
+	│	│	└───/train
+	│	│	│	// Trainning Images
+	│	│	└───/eval
+	│	│	│	// Test Images
+	│	│	└─── .config file
+	│	│
 	│       └─── Other Files
 	│
 	└───/ssd_mobilenet_v1_coco_2017_11_17
