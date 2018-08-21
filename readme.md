@@ -1,6 +1,6 @@
 # Tensorflow object detection - Custom object detector
 
-Hi, This is about custom object detector using tensorflow object detection API. Please refer step by step.
+Hi, This is about custom object detector using tensorflow object detection API. In this project trying to detect batman apperance. Please refer step by step.
 
 ## Preparing resources for tensorflow custom object detection.
 
@@ -88,15 +88,15 @@ The label map file will contain the labels and ids of the object. In this case t
 	│   └─── train.csv 
 	|
 	└───/models
-	│	    │
-	│	    └───/model
-	│		 │		│
-	│		 │		└───/train
-	│		 │		│		// Trainning Images
-	│		 │		└───/eval
-	│		 │		│		// Test Images
-	│		 │		└─── .config file
-	│		 │
+	│	│
+	│	└───/model
+	│	│	│
+	│	│	└───/train
+	│	│	│	// Trainning Images
+	│	│	└───/eval
+	│	│	│	// Test Images
+	│	│	└─── .config file
+	│	│
 	│       └─── Other Files
 	│
 	└───/ssd_mobilenet_v1_coco_2017_11_17
